@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-30T15:45:01.100Z'
+datePublished: '2016-05-31T19:40:41.198Z'
 sourcePath: _posts/2016-04-15-sleep-beneath-the-stars-in-the-italian-alps-or-travel-away.md
 inFeed: true
 isBasedOnUrl: 'http://travelaway.me/sleep-beneath-stars-italian-alps/'
@@ -20,7 +20,7 @@ related: []
 author:
   - name: ''
     url: ''
-dateModified: '2016-05-30T15:45:00.868Z'
+dateModified: '2016-05-31T19:40:40.959Z'
 title: 'Sleep Beneath the Stars in the Italian Alps | Travel Away'
 app_links: []
 publisher:
@@ -31,7 +31,7 @@ publisher:
 description: "A brainchild of local hotelier Raniero Campigotto, Starlight Room Dolomites is a mobile glass-encased bedroom tucked away in the picturesque Italian Alps, 20 km from the swanky ski resort of Cortina d'Ampezzo. Perched at an altitude of 2,055 meters, the secluded cabin rewards those who brave the climb up with marvelous mountain views by day and pollution-free starry skies by night."
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
