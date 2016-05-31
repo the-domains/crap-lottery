@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-30T15:45:01.102Z'
+datePublished: '2016-05-31T19:58:30.069Z'
 sourcePath: _posts/2016-04-16-timbuk2-blue-bottles-sabbatical-travel-kit.md
 inFeed: true
 isBasedOnUrl: 'http://www.coolhunting.com/food-drink/timbuk2-blue-bottle-travel-kit-coffee'
@@ -17,7 +17,7 @@ keywords:
   - craft
 related: []
 author: []
-dateModified: '2016-05-30T15:45:00.908Z'
+dateModified: '2016-05-31T19:58:29.847Z'
 title: "Timbuk2 + Blue Bottle's Sabbatical Travel Kit"
 app_links: []
 publisher:
@@ -28,7 +28,7 @@ publisher:
 description: "If the recent buyouts of Intelligentsia and Stumptown are any indication, the growing popularity of craft coffee shows no signs of slowing down. While single origin pour-overs are now commonplace in many coffeeshops, sometimes when you're off the beaten path, your morning cup of coffee is harder to perfect."
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
