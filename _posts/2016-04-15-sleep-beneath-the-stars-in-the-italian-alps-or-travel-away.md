@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-31T19:56:49.507Z'
+datePublished: '2016-05-31T19:58:29.332Z'
 sourcePath: _posts/2016-04-15-sleep-beneath-the-stars-in-the-italian-alps-or-travel-away.md
 inFeed: true
 isBasedOnUrl: 'http://travelaway.me/sleep-beneath-stars-italian-alps/'
@@ -20,7 +20,7 @@ related: []
 author:
   - name: Mr. K
     url: ''
-dateModified: '2016-05-31T19:56:27.784Z'
+dateModified: '2016-05-31T19:58:29.002Z'
 title: "Don't Let This Happen to You!"
 app_links: []
 publisher:
@@ -31,7 +31,7 @@ publisher:
 description: "Bad stuff happens...a lot! Some people are impervious, others draw it like a lightning rod. Take it from, well, we'll just call him Mr. O...protect yourself! Either that, or embrace the pestilance that can be your day and revel in all that can be Your Crap Lottery Day!"
 inLanguage: en
 inNav: false
-starred: true
+starred: false
 _context: 'http://schema.org'
 _type: MediaObject
 
