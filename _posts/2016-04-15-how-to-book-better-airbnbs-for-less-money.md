@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-05-30T15:45:01.102Z'
+datePublished: '2016-05-31T19:40:39.146Z'
 sourcePath: _posts/2016-04-15-how-to-book-better-airbnbs-for-less-money.md
 inFeed: true
 isBasedOnUrl: 'https://www.thrillist.com/tech/nation/airbnb-hacks-how-to-find-better-cheaper-listings/travel'
@@ -24,7 +24,7 @@ author:
   - name: '@jwmcgauley'
     url: 'https://www.twitter.com/@jwmcgauley'
     avatar: {}
-dateModified: '2016-05-30T15:45:00.860Z'
+dateModified: '2016-05-31T19:40:38.818Z'
 title: How to Book Better Airbnbs for Less Money
 app_links:
   - namespace: twitter
@@ -39,7 +39,7 @@ publisher:
 description: How to successfully book your first-choice listings and get them for cheaper.
 inLanguage: en
 inNav: false
-starred: false
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
